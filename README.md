@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **Disclaimer: packet reader in 2.5.9.** The released MaplePrice 2.5.9 includes a packet reader that reads the
+> game's network traffic to decode equipment stats. That packet reader is **not** in this repository: the code here
+> only reads the screen (OCR). The packet reader will be removed from the app after 2.5.9, now that the stats
+> players share have become reliable.
+
 <div align="center">
 
 <img src="docs/cozy.png" width="120" alt="Cozy, the MaplePrice mushroom">
@@ -24,11 +30,6 @@ never touches the game itself.
 <p align="center">
   <img src="docs/shop-prices.png" width="820" alt="A Free Market shop with a MaplePrice card beside each listing">
 </p>
-
-> [!NOTE]
-> The released MaplePrice 2.5.9 also has a packet reader, used to decode equipment stats. That part isn't in this
-> repository: this code reads everything off the screen. The packet reader will be dropped from the app after
-> 2.5.9, now that the stats players share have become reliable.
 
 ## Features
 
