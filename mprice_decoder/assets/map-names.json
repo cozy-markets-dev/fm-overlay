@@ -1,0 +1,1284 @@
+{
+  "maps": {
+    "000000001": {
+      "mapName": "Mushroom Town - West Entrance",
+      "streetName": "Maple Road"
+    },
+    "000000010": {
+      "mapName": "Mushroom Town",
+      "streetName": "Maple Road"
+    },
+    "000000020": {
+      "mapName": "Mushroom Town",
+      "streetName": "Maple Road"
+    },
+    "000000021": {
+      "mapName": "Mushroom Town Townstreet",
+      "streetName": "Maple Road"
+    },
+    "000000030": {
+      "mapName": "East Entrance to Mushroom Town",
+      "streetName": "Maple Road"
+    },
+    "000000040": {
+      "mapName": "Snail Hunting Ground I",
+      "streetName": "Maple Road"
+    },
+    "000000041": {
+      "mapName": "Snail Hunting Ground II",
+      "streetName": "Maple Road"
+    },
+    "000000042": {
+      "mapName": "Snail Hunting Ground III",
+      "streetName": "Maple Road"
+    },
+    "000000050": {
+      "mapName": "A Split Road",
+      "streetName": "Maple Road"
+    },
+    "000000060": {
+      "mapName": "Southperry",
+      "streetName": "Maple Road"
+    },
+    "000000061": {
+      "mapName": "Southperry Armor Store",
+      "streetName": "Maple Road"
+    },
+    "000001000": {
+      "mapName": "The Field West of Amherst",
+      "streetName": "Rainbow Street"
+    },
+    "000001001": {
+      "mapName": "In a Small Forest",
+      "streetName": "Rainbow Street"
+    },
+    "000001002": {
+      "mapName": "Dangerous Forest",
+      "streetName": "Rainbow Street"
+    },
+    "000001003": {
+      "mapName": "Mushroom Garden",
+      "streetName": "Rainbow Street"
+    },
+    "000001004": {
+      "mapName": "Snail Garden",
+      "streetName": "Rainbow Street"
+    },
+    "000001005": {
+      "mapName": "Hunting Ground Middle of the Forest I",
+      "streetName": "Rainbow Street"
+    },
+    "000001006": {
+      "mapName": "Hunting Ground Middle of the Forest II",
+      "streetName": "Rainbow Street"
+    },
+    "000001010": {
+      "mapName": "Amherst",
+      "streetName": "Rainbow Street"
+    },
+    "000001011": {
+      "mapName": "Amherst Weapon Store",
+      "streetName": "Rainbow Street"
+    },
+    "000001012": {
+      "mapName": "Amherst Townstreet",
+      "streetName": "Rainbow Street"
+    },
+    "000001013": {
+      "mapName": "Amherst Department Store",
+      "streetName": "Rainbow Street"
+    },
+    "000001014": {
+      "mapName": "Snail Field of Flowers",
+      "streetName": "Rainbow Street"
+    },
+    "000001020": {
+      "mapName": "The Field East of Amherst",
+      "streetName": "Rainbow Street"
+    },
+    "000001021": {
+      "mapName": "Tomato Field",
+      "streetName": "Rainbow Street"
+    },
+    "010000000": {
+      "mapName": "Lith Harbor",
+      "streetName": "Victoria Road"
+    },
+    "010000001": {
+      "mapName": "Lith Harbor Armor Shop",
+      "streetName": "Victoria Road"
+    },
+    "010000002": {
+      "mapName": "Lith Harbor Department Store",
+      "streetName": "Victoria Road"
+    },
+    "010000003": {
+      "mapName": "Lith Harbor Weapon Shop",
+      "streetName": "Victoria Road"
+    },
+    "010000010": {
+      "mapName": "Right Around Lith Harbor",
+      "streetName": "Victoria Road"
+    },
+    "010000011": {
+      "mapName": "Thicket Around the Beach I",
+      "streetName": "Victoria Road"
+    },
+    "010000012": {
+      "mapName": "Thicket Around the Beach II",
+      "streetName": "Victoria Road"
+    },
+    "010000013": {
+      "mapName": "Thicket Around the Beach III",
+      "streetName": "Victoria Road"
+    },
+    "010000020": {
+      "mapName": "3-Way Road-Split",
+      "streetName": "Victoria Road"
+    },
+    "010000021": {
+      "mapName": "The Pig Beach",
+      "streetName": "Hidden Street"
+    },
+    "010000022": {
+      "mapName": "Beach Hunting Ground",
+      "streetName": "Hidden Street"
+    },
+    "010001000": {
+      "mapName": "Henesys",
+      "streetName": "Victoria Road"
+    },
+    "010001001": {
+      "mapName": "Henesys Townstreet",
+      "streetName": "Victoria Road"
+    },
+    "010001002": {
+      "mapName": "An Empty House",
+      "streetName": "Hidden Street"
+    },
+    "010001003": {
+      "mapName": "Pig Park",
+      "streetName": "Hidden Street"
+    },
+    "010001004": {
+      "mapName": "Pig Park II",
+      "streetName": "Hidden Street"
+    },
+    "010001005": {
+      "mapName": "Someone Else's House",
+      "streetName": "Hidden Street"
+    },
+    "010001006": {
+      "mapName": "The Resting Spot, Pig Park",
+      "streetName": "Hidden Street"
+    },
+    "010001007": {
+      "mapName": "Henesys Town Hall",
+      "streetName": "Victoria Road"
+    },
+    "010001008": {
+      "mapName": "Victoria Road",
+      "streetName": "Yellow Mushroom House"
+    },
+    "010001010": {
+      "mapName": "Henesys Hunting Ground I",
+      "streetName": "Victoria Road"
+    },
+    "010001011": {
+      "mapName": "Henesys Hunting Ground II",
+      "streetName": "Victoria Road"
+    },
+    "010001012": {
+      "mapName": "Henesys Hunting Ground III",
+      "streetName": "Victoria Road"
+    },
+    "010001020": {
+      "mapName": "A Hill West of Henesys ",
+      "streetName": "Victoria Road"
+    },
+    "010001021": {
+      "mapName": "Mushroom Garden",
+      "streetName": "Hidden Street"
+    },
+    "010001030": {
+      "mapName": "Forest West of Henesys",
+      "streetName": "Victoria Road"
+    },
+    "010001040": {
+      "mapName": "Henesys Market",
+      "streetName": "Victoria Road"
+    },
+    "010001041": {
+      "mapName": "Henesys Weapon Store",
+      "streetName": "Victoria Road"
+    },
+    "010001042": {
+      "mapName": "Henesys Department Store",
+      "streetName": "Victoria Road"
+    },
+    "010001043": {
+      "mapName": "Henesys Plastic Surgery",
+      "streetName": "Victoria Road"
+    },
+    "010001044": {
+      "mapName": "Henesys Hair Salon",
+      "streetName": "Victoria Road"
+    },
+    "010001045": {
+      "mapName": "Henesys Skin-Care",
+      "streetName": "Victoria Road"
+    },
+    "010001050": {
+      "mapName": "Henesys Park",
+      "streetName": "Victoria Road"
+    },
+    "010001051": {
+      "mapName": "Bowman Instructional School",
+      "streetName": "Victoria Road"
+    },
+    "010001052": {
+      "mapName": "Pet-Walking Road",
+      "streetName": "Victoria Road"
+    },
+    "010001060": {
+      "mapName": "The Hill East of Henesys",
+      "streetName": "Victoria Road"
+    },
+    "010001070": {
+      "mapName": "The Rain-Forest East of Henesys",
+      "streetName": "Victoria Road"
+    },
+    "010001080": {
+      "mapName": "The Forest East of Henesys",
+      "streetName": "Victoria Road"
+    },
+    "010001081": {
+      "mapName": "The Blue Mushroom Forest",
+      "streetName": "Hidden Street"
+    },
+    "010001082": {
+      "mapName": "Utah's Pig Farm",
+      "streetName": "Hidden Street"
+    },
+    "010001090": {
+      "mapName": "The Road to the Dungeon",
+      "streetName": "Warning Street"
+    },
+    "010001100": {
+      "mapName": "Henesys Dungeon Entrance",
+      "streetName": "Warning Street"
+    },
+    "010001101": {
+      "mapName": "The Breathing Rock",
+      "streetName": "Hidden Street"
+    },
+    "010001102": {
+      "mapName": "The Entrance of Golem's Temple",
+      "streetName": "Victoria Road"
+    },
+    "010001103": {
+      "mapName": "Golem's Temple I",
+      "streetName": "Victoria Road"
+    },
+    "010001104": {
+      "mapName": "Golem's Temple II",
+      "streetName": "Victoria Road"
+    },
+    "010001105": {
+      "mapName": "Golem's Temple III",
+      "streetName": "Victoria Road"
+    },
+    "010001106": {
+      "mapName": "Golem's Temple IV",
+      "streetName": "Victoria Road"
+    },
+    "010002000": {
+      "mapName": "Ellinia",
+      "streetName": "Victoria Road"
+    },
+    "010002001": {
+      "mapName": "Ellinia Weapon Store",
+      "streetName": "Victoria Road"
+    },
+    "010002002": {
+      "mapName": "Ellinia Department Store",
+      "streetName": "Victoria Road"
+    },
+    "010002003": {
+      "mapName": "Magic Library",
+      "streetName": "Victoria Road"
+    },
+    "010002004": {
+      "mapName": "Marr's Forest",
+      "streetName": "Hidden Street"
+    },
+    "010002005": {
+      "mapName": "The Circulation Desk",
+      "streetName": "Hidden Street"
+    },
+    "010002010": {
+      "mapName": "The Field South of Ellinia",
+      "streetName": "Victoria Road"
+    },
+    "010002020": {
+      "mapName": "The Forest of Wisdom",
+      "streetName": "Victoria Road"
+    },
+    "010002021": {
+      "mapName": "Monkey Forest I",
+      "streetName": "Hidden Street"
+    },
+    "010002022": {
+      "mapName": "Tree Dungeon, Monkey Forest I",
+      "streetName": "Victoria Road"
+    },
+    "010002023": {
+      "mapName": "Monkey Forest II",
+      "streetName": "Victoria Road"
+    },
+    "010002024": {
+      "mapName": "Tree Dungeon, Monkey Forest II",
+      "streetName": "Hidden Street"
+    },
+    "010002025": {
+      "mapName": "The Forest of Evil I",
+      "streetName": "Hidden Street"
+    },
+    "010002026": {
+      "mapName": "The Forest of Evil II",
+      "streetName": "Hidden Street"
+    },
+    "010002027": {
+      "mapName": "Downstairs at the Forest",
+      "streetName": "Hidden Street"
+    },
+    "010002030": {
+      "mapName": "The Forest South of Ellinia",
+      "streetName": "Victoria Road"
+    },
+    "010002031": {
+      "mapName": "Dungeon, Southern Forest I",
+      "streetName": "Victoria Road"
+    },
+    "010002032": {
+      "mapName": "Dungeon, Southern Forest II",
+      "streetName": "Victoria Road"
+    },
+    "010002033": {
+      "mapName": "Dungeon, Southern Forest III",
+      "streetName": "Victoria Road"
+    },
+    "010002034": {
+      "mapName": "Dungeon, Southern Forest IV",
+      "streetName": "Victoria Road"
+    },
+    "010002040": {
+      "mapName": "The Forest of Patience \u003cStep 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010002041": {
+      "mapName": "The Forest of Patience \u003cStep 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010002042": {
+      "mapName": "The Forest of Patience \u003cStep 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010002043": {
+      "mapName": "The Forest of Patience \u003cStep 4\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010002044": {
+      "mapName": "The Forest of Patience \u003cStep 5\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010002050": {
+      "mapName": "The Field Up North of Ellinia",
+      "streetName": "Victoria Road"
+    },
+    "010002060": {
+      "mapName": "The Tree That Grew I",
+      "streetName": "Victoria Road"
+    },
+    "010002061": {
+      "mapName": "The Tree That Grew II",
+      "streetName": "Victoria Road"
+    },
+    "010002062": {
+      "mapName": "The Tree That Grew III",
+      "streetName": "Victoria Road"
+    },
+    "010002070": {
+      "mapName": "The Forest North of Ellinia",
+      "streetName": "Victoria Road"
+    },
+    "010002071": {
+      "mapName": "The Tree Tunnel At the Forest Up North",
+      "streetName": "Victoria Road"
+    },
+    "010002072": {
+      "mapName": "Tree Dungeon, Forest Up North I",
+      "streetName": "Victoria Road"
+    },
+    "010002073": {
+      "mapName": "Tree Dungeon, Forest Up North II",
+      "streetName": "Victoria Road"
+    },
+    "010002074": {
+      "mapName": "Tree Dungeon, Forest Up North III",
+      "streetName": "Victoria Road"
+    },
+    "010002075": {
+      "mapName": "Tree Dungeon, Forest Up North IV",
+      "streetName": "Victoria Road"
+    },
+    "010002076": {
+      "mapName": "Tree Dungeon, Forest Up North V",
+      "streetName": "Victoria Road"
+    },
+    "010002080": {
+      "mapName": "Tree Dungeon, Forest Up North VI",
+      "streetName": "Victoria Road"
+    },
+    "010002081": {
+      "mapName": "Tree Dungeon, Forest Up North VII",
+      "streetName": "Victoria Road"
+    },
+    "010002082": {
+      "mapName": "Tree Dungeon, Forest Up North VIII",
+      "streetName": "Victoria Road"
+    },
+    "010002083": {
+      "mapName": "Tree Dungeon, Forest Up North IX",
+      "streetName": "Victoria Road"
+    },
+    "010002090": {
+      "mapName": "Ellinia Station",
+      "streetName": "Victoria Road"
+    },
+    "010002091": {
+      "mapName": "Before Takeoff \u003cTo Orbis\u003e",
+      "streetName": "Victoria Road"
+    },
+    "010003000": {
+      "mapName": "Kerning City",
+      "streetName": "Victoria Road"
+    },
+    "010003001": {
+      "mapName": "Kerning City Self-Defence Item Store",
+      "streetName": "Victoria Road"
+    },
+    "010003002": {
+      "mapName": "Kerning City Pharmacy",
+      "streetName": "Victoria Road"
+    },
+    "010003003": {
+      "mapName": "Thieves' Hideout",
+      "streetName": "Victoria Road"
+    },
+    "010003004": {
+      "mapName": "Niora Hospital",
+      "streetName": "Victoria Road"
+    },
+    "010003005": {
+      "mapName": "Kerning City Hair Salon",
+      "streetName": "Victoria Road"
+    },
+    "010003006": {
+      "mapName": "Kerning City Repair Shop",
+      "streetName": "Victoria Road"
+    },
+    "010003007": {
+      "mapName": "Kerning City Civic Center",
+      "streetName": "Victoria Road"
+    },
+    "010003008": {
+      "mapName": "Backalley Semi-Basement",
+      "streetName": "Victoria Road"
+    },
+    "010003010": {
+      "mapName": "Kerning City Construction Site",
+      "streetName": "Victoria Road"
+    },
+    "010003011": {
+      "mapName": "Caution Falling Down",
+      "streetName": "Hidden Street"
+    },
+    "010003020": {
+      "mapName": "L Forest I",
+      "streetName": "Victoria Road"
+    },
+    "010003030": {
+      "mapName": "L Forest II",
+      "streetName": "Victoria Road"
+    },
+    "010003040": {
+      "mapName": "L Forest III",
+      "streetName": "Victoria Road"
+    },
+    "010003050": {
+      "mapName": "Kerning City Middle Forest I",
+      "streetName": "Victoria Road"
+    },
+    "010003051": {
+      "mapName": "Kerning City Middle Forest II",
+      "streetName": "Victoria Road"
+    },
+    "010003052": {
+      "mapName": "Kerning City Middle Forest III",
+      "streetName": "Victoria Road"
+    },
+    "010003060": {
+      "mapName": "Subway Ticketing Booth",
+      "streetName": "Victoria Road"
+    },
+    "010003061": {
+      "mapName": "Line 1 \u003cArea 1\u003e",
+      "streetName": "Kerning City Subway"
+    },
+    "010003062": {
+      "mapName": "Transfer Area",
+      "streetName": "Kerning City Subway"
+    },
+    "010003063": {
+      "mapName": "Line 1 \u003cArea 2\u003e",
+      "streetName": "Kerning City Subway"
+    },
+    "010003064": {
+      "mapName": "Line 1 \u003cArea 3\u003e",
+      "streetName": "Kerning City Subway"
+    },
+    "010003065": {
+      "mapName": "Line 1 \u003cArea 4\u003e",
+      "streetName": "Kerning City Subway"
+    },
+    "010003066": {
+      "mapName": "Line 2 \u003cArea 1\u003e",
+      "streetName": "Kerning City Subway"
+    },
+    "010003067": {
+      "mapName": "Line 2 \u003cArea 2\u003e",
+      "streetName": "Kerning City Subway"
+    },
+    "010003068": {
+      "mapName": "Line 2 \u003cArea 3\u003e",
+      "streetName": "Kerning City Subway"
+    },
+    "010003070": {
+      "mapName": "Sunset Sky",
+      "streetName": "Victoria Road"
+    },
+    "010003080": {
+      "mapName": "Construction Site North of Kerning City",
+      "streetName": "Victoria Road"
+    },
+    "010003081": {
+      "mapName": "Northern Top of Construction Site",
+      "streetName": "Hidden Street"
+    },
+    "010003090": {
+      "mapName": "The Swamp of Despair I",
+      "streetName": "Warning Street"
+    },
+    "010003091": {
+      "mapName": "The Swamp of Despair II",
+      "streetName": "Warning Street"
+    },
+    "010003092": {
+      "mapName": "The Swamp of Despair III",
+      "streetName": "Warning Street"
+    },
+    "010003093": {
+      "mapName": "Dangerous Croko I",
+      "streetName": "Warning Street"
+    },
+    "010003094": {
+      "mapName": "Dangerous Croko II",
+      "streetName": "Warning Street"
+    },
+    "010003095": {
+      "mapName": "Monkey Swamp I",
+      "streetName": "Hidden Street"
+    },
+    "010003096": {
+      "mapName": "Monkey Swamp II",
+      "streetName": "Hidden Street"
+    },
+    "010003097": {
+      "mapName": "Monkey Swamp III",
+      "streetName": "Hidden Street"
+    },
+    "010003098": {
+      "mapName": "The Hermit's Cabin",
+      "streetName": "Hidden Street"
+    },
+    "010003100": {
+      "mapName": "B1 \u003cArea 1\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003101": {
+      "mapName": "B1 \u003cArea 2\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003102": {
+      "mapName": "B1 \u003cSubway Depot\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003103": {
+      "mapName": "B2 \u003cArea 1\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003104": {
+      "mapName": "B2 \u003cArea 2\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003105": {
+      "mapName": "B2 \u003cSubway Depot\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003106": {
+      "mapName": "B3 \u003cArea 1\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003107": {
+      "mapName": "B3 \u003cArea 2\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003108": {
+      "mapName": "B3 \u003cArea 3\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003109": {
+      "mapName": "B3 \u003cSubway Depot\u003e",
+      "streetName": "Line 3 Construction Site"
+    },
+    "010003110": {
+      "mapName": "The Murky Swamp",
+      "streetName": "Hidden Street"
+    },
+    "010003111": {
+      "mapName": "Cabin of the Forsaken",
+      "streetName": "Hidden Street"
+    },
+    "010004000": {
+      "mapName": "Perion",
+      "streetName": "Victoria Road"
+    },
+    "010004001": {
+      "mapName": "Perion Weapon Store",
+      "streetName": "Victoria Road"
+    },
+    "010004002": {
+      "mapName": "Perion Department Store",
+      "streetName": "Victoria Road"
+    },
+    "010004003": {
+      "mapName": "Warriors' Sanctuary",
+      "streetName": "Victoria Road"
+    },
+    "010004010": {
+      "mapName": "West Street Corner of Perion",
+      "streetName": "Victoria Road"
+    },
+    "010004020": {
+      "mapName": "West Rocky Mountain I",
+      "streetName": "Victoria Road"
+    },
+    "010004021": {
+      "mapName": "West Rocky Mountain II",
+      "streetName": "Victoria Road"
+    },
+    "010004022": {
+      "mapName": "West Rocky Mountain III",
+      "streetName": "Victoria Road"
+    },
+    "010004023": {
+      "mapName": "West Rocky Mountain IV",
+      "streetName": "Victoria Road"
+    },
+    "010004030": {
+      "mapName": "West Domain of Perion",
+      "streetName": "Victoria Road"
+    },
+    "010004040": {
+      "mapName": "Perion Street Corner",
+      "streetName": "Victoria Road"
+    },
+    "010004041": {
+      "mapName": "Land of Wild Boar",
+      "streetName": "Hidden Street"
+    },
+    "010004042": {
+      "mapName": "Over the Wall",
+      "streetName": "Hidden Street"
+    },
+    "010004050": {
+      "mapName": "East Rocky Mountain I",
+      "streetName": "Victoria Road"
+    },
+    "010004051": {
+      "mapName": "East Rocky Mountain II",
+      "streetName": "Victoria Road"
+    },
+    "010004052": {
+      "mapName": "East Rocky Mountain III",
+      "streetName": "Victoria Road"
+    },
+    "010004053": {
+      "mapName": "East Rocky Mountain IV",
+      "streetName": "Victoria Road"
+    },
+    "010004054": {
+      "mapName": "East Rocky Mountain V",
+      "streetName": "Victoria Road"
+    },
+    "010004055": {
+      "mapName": "East Rocky Mountain VI",
+      "streetName": "Victoria Road"
+    },
+    "010004056": {
+      "mapName": "East Rocky Mountain VII",
+      "streetName": "Victoria Road"
+    },
+    "010004060": {
+      "mapName": "Rocky Road I",
+      "streetName": "Victoria Road"
+    },
+    "010004070": {
+      "mapName": "Rocky Road II",
+      "streetName": "Victoria Road"
+    },
+    "010004080": {
+      "mapName": "Rocky Road III",
+      "streetName": "Victoria Road"
+    },
+    "010004090": {
+      "mapName": "East Domain of Perion",
+      "streetName": "Victoria Road"
+    },
+    "010004091": {
+      "mapName": "The Land of Wild Boar II",
+      "streetName": "Hidden Street"
+    },
+    "010004100": {
+      "mapName": "Deep Valley I",
+      "streetName": "Warning Street"
+    },
+    "010004101": {
+      "mapName": "Dangerous Valley",
+      "streetName": "Hidden Street"
+    },
+    "010004102": {
+      "mapName": "Dangerous Valley II",
+      "streetName": "Hidden Street"
+    },
+    "010004110": {
+      "mapName": "Deep Valley II",
+      "streetName": "Warning Street"
+    },
+    "010004111": {
+      "mapName": "The Burnt Land I",
+      "streetName": "Warning Street"
+    },
+    "010004112": {
+      "mapName": "The Burnt Land II",
+      "streetName": "Warning Street"
+    },
+    "010004113": {
+      "mapName": "The Burnt Land III",
+      "streetName": "Warning Street"
+    },
+    "010004114": {
+      "mapName": "The Burnt Land IV",
+      "streetName": "Warning Street"
+    },
+    "010004115": {
+      "mapName": "The Burnt Land V",
+      "streetName": "Warning Street"
+    },
+    "010004120": {
+      "mapName": "Deep Valley III",
+      "streetName": "Warning Street"
+    },
+    "010004121": {
+      "mapName": "Perion Dungeon Entrance",
+      "streetName": "Warning Street"
+    },
+    "010005000": {
+      "mapName": "Sleepywood",
+      "streetName": "Dungeon"
+    },
+    "010005001": {
+      "mapName": "Sleepywood Hotel",
+      "streetName": "Dungeon"
+    },
+    "010005002": {
+      "mapName": "Regular Sauna",
+      "streetName": "Dungeon"
+    },
+    "010005003": {
+      "mapName": "VIP Sauna",
+      "streetName": "Dungeon"
+    },
+    "010005010": {
+      "mapName": "Swampy Land in a Deep Forest",
+      "streetName": "Dungeon"
+    },
+    "010005011": {
+      "mapName": "Hunting Ground in the Deep Forest I",
+      "streetName": "Dungeon"
+    },
+    "010005012": {
+      "mapName": "Hunting Ground in the Deep Forest II",
+      "streetName": "Dungeon"
+    },
+    "010005020": {
+      "mapName": "Deep Forest",
+      "streetName": "Dungeon"
+    },
+    "010005030": {
+      "mapName": "Damp Tree-Forest",
+      "streetName": "Dungeon"
+    },
+    "010005031": {
+      "mapName": "Damp Forest",
+      "streetName": "Dungeon"
+    },
+    "010005040": {
+      "mapName": "The Deep Forest of Patience \u003cStep 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010005041": {
+      "mapName": "The Deep Forest of Patience \u003cStep 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010005042": {
+      "mapName": "The Deep Forest of Patience \u003cStep 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010005043": {
+      "mapName": "The Deep Forest of Patience \u003cStep 4\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010005044": {
+      "mapName": "The Deep Forest of Patience \u003cStep 5\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010005045": {
+      "mapName": "The Deep Forest of Patience \u003cStep 6\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010005046": {
+      "mapName": "The Deep Forest of Patience \u003cStep 7\u003e",
+      "streetName": "Hidden Street"
+    },
+    "010005050": {
+      "mapName": "Sleepy Dungeon I",
+      "streetName": "Dungeon"
+    },
+    "010005051": {
+      "mapName": "Sleepy Dungeon II",
+      "streetName": "Dungeon"
+    },
+    "010005052": {
+      "mapName": "Sleepy Dungeon III",
+      "streetName": "Dungeon"
+    },
+    "010005053": {
+      "mapName": "Sleepy Dungeon IV",
+      "streetName": "Dungeon"
+    },
+    "010005054": {
+      "mapName": "Sleepy Dungeon V",
+      "streetName": "Dungeon"
+    },
+    "010005060": {
+      "mapName": "Ant Tunnel I",
+      "streetName": "Dungeon"
+    },
+    "010005061": {
+      "mapName": "Ant Tunnel II",
+      "streetName": "Dungeon"
+    },
+    "010005062": {
+      "mapName": "Ant Tunnel III",
+      "streetName": "Dungeon"
+    },
+    "010005063": {
+      "mapName": "Ant Tunnel IV",
+      "streetName": "Dungeon"
+    },
+    "010005064": {
+      "mapName": "Dark Cave",
+      "streetName": "Dungeon"
+    },
+    "010005065": {
+      "mapName": "Dangerous Steam",
+      "streetName": "Dungeon"
+    },
+    "010005066": {
+      "mapName": "Deep Ant Tunnel I",
+      "streetName": "Dungeon"
+    },
+    "010005067": {
+      "mapName": "Deep Ant Tunnel II",
+      "streetName": "Dungeon"
+    },
+    "010005070": {
+      "mapName": "Ant Tunnel Park",
+      "streetName": "Dungeon"
+    },
+    "010005071": {
+      "mapName": "The Cave of Evil Eye I",
+      "streetName": "Dungeon"
+    },
+    "010005072": {
+      "mapName": "The Cave of Evil Eye II",
+      "streetName": "Dungeon"
+    },
+    "010005073": {
+      "mapName": "The Cave of Evil Eye III",
+      "streetName": "Dungeon"
+    },
+    "010005074": {
+      "mapName": "The Cave of Evil Eye IV",
+      "streetName": "Dungeon"
+    },
+    "010005075": {
+      "mapName": "Drake Hunting Ground",
+      "streetName": "Dungeon"
+    },
+    "010005076": {
+      "mapName": "The Tunnel That Lost Light I",
+      "streetName": "Dungeon"
+    },
+    "010005077": {
+      "mapName": "The Tunnel That Lost Light II",
+      "streetName": "Dungeon"
+    },
+    "010005078": {
+      "mapName": "The Grave of Mushmom",
+      "streetName": "Dungeon"
+    },
+    "010005080": {
+      "mapName": "Another Entrance",
+      "streetName": "Dungeon"
+    },
+    "010005090": {
+      "mapName": "Drake's Meal Table",
+      "streetName": "Dungeon"
+    },
+    "010005091": {
+      "mapName": "Wild Kargo's Area",
+      "streetName": "Dungeon"
+    },
+    "010005100": {
+      "mapName": "Another Path",
+      "streetName": "Dungeon"
+    },
+    "010005101": {
+      "mapName": "Sanctuary Entrance I",
+      "streetName": "Dungeon"
+    },
+    "010005102": {
+      "mapName": "Sanctuary Entrance II",
+      "streetName": "Dungeon"
+    },
+    "010005103": {
+      "mapName": "Sanctuary Entrance III",
+      "streetName": "Dungeon"
+    },
+    "010005104": {
+      "mapName": "Sanctuary Entrance IV",
+      "streetName": "Dungeon"
+    },
+    "010005105": {
+      "mapName": "The Cursed Sanctuary",
+      "streetName": "Dungeon"
+    },
+    "010007000": {
+      "mapName": "Florina Beach",
+      "streetName": "Florina Road"
+    },
+    "010007010": {
+      "mapName": "A Look-Out Shed Around the Beach",
+      "streetName": "Florina Road"
+    },
+    "010007020": {
+      "mapName": "Lorang Lorang",
+      "streetName": "Florina Road"
+    },
+    "010007021": {
+      "mapName": "Lorang Lorang Lorang",
+      "streetName": "Hidden Street"
+    },
+    "010007030": {
+      "mapName": "Lorang and Clang",
+      "streetName": "Florina Road"
+    },
+    "010007031": {
+      "mapName": "Clang and Lorang",
+      "streetName": "Florina Road"
+    },
+    "010007040": {
+      "mapName": "Hot Sand",
+      "streetName": "Florina Road"
+    },
+    "080000000": {
+      "mapName": "1st Accompaniment \u003c1st Stage\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080000100": {
+      "mapName": "1st Accompaniment \u003c2nd Stage\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080000200": {
+      "mapName": "1st Accompaniment \u003c3rd Stage\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080000300": {
+      "mapName": "1st Accompaniment \u003c4th stage\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080000400": {
+      "mapName": "1st Accompaniment \u003cLast Stage\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080000500": {
+      "mapName": "1st Accompaniment \u003cBonus\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080000600": {
+      "mapName": "1st Accompaniment \u003cExit\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080001000": {
+      "mapName": "Ant Tunnel For Bowman",
+      "streetName": "Hidden Street"
+    },
+    "080001100": {
+      "mapName": "Magician's Tree Dungeon",
+      "streetName": "Hidden Street"
+    },
+    "080001200": {
+      "mapName": "Thief's Construction Site",
+      "streetName": "Hidden Street"
+    },
+    "080001300": {
+      "mapName": "Warrior's Rocky Mountain",
+      "streetName": "Hidden Street"
+    },
+    "080002000": {
+      "mapName": "Free Market Entrance",
+      "streetName": "Hidden Street"
+    },
+    "080002001": {
+      "mapName": "Free Market \u003c1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002002": {
+      "mapName": "Free Market \u003c2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002003": {
+      "mapName": "Free Market \u003c3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002004": {
+      "mapName": "Free Market \u003c4\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002005": {
+      "mapName": "Free Market \u003c5\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002006": {
+      "mapName": "Free Market \u003c6\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002007": {
+      "mapName": "Free Market \u003c7\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002008": {
+      "mapName": "Free Market \u003c8\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002009": {
+      "mapName": "Free Market \u003c9\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002010": {
+      "mapName": "Free Market \u003c10\u003e",
+      "streetName": "Hidden Street"
+    },
+    "080002011": {
+      "mapName": "Free Market \u003c11\u003e",
+      "streetName": "Hidden Street"
+    },
+    "088000000": {
+      "mapName": "Yellow Mushroom House",
+      "streetName": "Victoria Road"
+    },
+    "088001000": {
+      "mapName": "Backalley Semi-Basement",
+      "streetName": "Victoria Road"
+    },
+    "089000000": {
+      "mapName": "Truth Booth",
+      "streetName": "Truth Booth"
+    },
+    "090000000": {
+      "mapName": "Maple Hill",
+      "streetName": "Hidden Street"
+    },
+    "090040000": {
+      "mapName": "Physical Fitness Test \u003cWaiting Room\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040001": {
+      "mapName": "Physical Fitness Test \u003cLevel 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040002": {
+      "mapName": "Physical Fitness Test \u003cLevel 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040003": {
+      "mapName": "Physical Fitness Test \u003cLevel 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040004": {
+      "mapName": "Physical Fitness Test \u003cLevel 4\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040010": {
+      "mapName": "Physical Fitness Test \u003cEasy Waiting Room\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040011": {
+      "mapName": "Physical Fitness Test \u003cEasy Level 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040012": {
+      "mapName": "Physical Fitness Test \u003cEasy Level 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040013": {
+      "mapName": "Physical Fitness Test \u003cEasy Level 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040020": {
+      "mapName": "Physical Fitness Test \u003cNormal Waiting Room\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040021": {
+      "mapName": "Physical Fitness Test \u003cNormal Level 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040022": {
+      "mapName": "Physical Fitness Test \u003cNormal Level 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040023": {
+      "mapName": "Physical Fitness Test \u003cNormal Level 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040101": {
+      "mapName": "Up and Up \u003cLevel 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040102": {
+      "mapName": "Up and Up \u003cLevel 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040103": {
+      "mapName": "Up and Up \u003cLevel 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040111": {
+      "mapName": "Up and Up \u003cLevel 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040112": {
+      "mapName": "Up and Up \u003cLevel 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040113": {
+      "mapName": "Up and Up \u003cLevel 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040121": {
+      "mapName": "Up and Up \u003cLevel 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040122": {
+      "mapName": "Up and Up \u003cLevel 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040123": {
+      "mapName": "Up and Up \u003cLevel 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040131": {
+      "mapName": "Up and Up \u003cLevel 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040132": {
+      "mapName": "Up and Up \u003cLevel 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040133": {
+      "mapName": "Up and Up \u003cLevel 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040141": {
+      "mapName": "Up and Up \u003cLevel 1\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040142": {
+      "mapName": "Up and Up \u003cLevel 2\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040143": {
+      "mapName": "Up and Up \u003cLevel 3\u003e",
+      "streetName": "Hidden Street"
+    },
+    "090040200": {
+      "mapName": "Coconut Harvest",
+      "streetName": "Hidden Street"
+    },
+    "090040201": {
+      "mapName": "Coconut Harvest",
+      "streetName": "Hidden Street"
+    },
+    "090040202": {
+      "mapName": "Coconut Harvest",
+      "streetName": "Hidden Street"
+    },
+    "090040203": {
+      "mapName": "G* Coconut Season",
+      "streetName": "Hidden Street"
+    },
+    "090050000": {
+      "mapName": "Leaving the Event",
+      "streetName": "Hidden Street"
+    },
+    "090050001": {
+      "mapName": "Receiving the Reward For the Event",
+      "streetName": "Hidden Street"
+    },
+    "900000000": {
+      "mapName": "The Manager's Room",
+      "streetName": "Hidden Street"
+    },
+    "900000003": {
+      "mapName": "White Room",
+      "streetName": "Hidden Street"
+    }
+  },
+  "source_file": "String_000.wz",
+  "source_image": "Map.img",
+  "source_sha256": "a6c7c7a4b45795543c78e5189bbec760ed5bd9c6d4cc39206c6e8e032aac078b",
+  "wz_version": 779
+}

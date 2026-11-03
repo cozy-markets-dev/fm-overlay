@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+.buildtools/
+*.bak*
+mprice_decoder/assets/client.key
+mprice_decoder/assets/private-upload.json
+mprice_decoder/assets/icons.zip.partial
+.private/

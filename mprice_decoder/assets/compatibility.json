@@ -1,0 +1,10 @@
+{
+  "data_directory": "mapleprice",
+  "instance_mutex": "Local\\MaplePrice-overlay",
+  "manifest_url": "https://cozy.markets/mapleprice/latest.json",
+  "signature_domain": "MaplePrice",
+  "signature_domain2": "MaplePrice/2\n",
+  "release_directory": "mapleprice",
+  "key_directory": "mapleprice",
+  "legacy_release_pattern": "MaplePrice-\\d+(?:\\.\\d+)*(?: \\(\\d+\\))?\\.exe"
+}

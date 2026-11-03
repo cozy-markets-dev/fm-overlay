@@ -1,0 +1,10 @@
+rapidocr-onnxruntime
+opencv-python
+numpy
+mss
+pillow
+rapidfuzz
+requests
+psutil
+cryptography
+pywebview==6.2.1
