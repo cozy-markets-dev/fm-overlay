@@ -4,7 +4,8 @@ Windows overlay for MapleStory Classic that prices Free Market shop listings and
 screen (OCR), with prices from Cozy Markets and MeowDB.
 
 The released MaplePrice 2.5.9 also has a packet reader, used to decode equipment stats. That part isn't in this
-repository: this code reads everything off the screen.
+repository: this code reads everything off the screen. The packet reader will be dropped from the app after 2.5.9,
+now that the stats players share have become reliable.
 
 - Run from source (Windows, Python 3.12, as admin for hotkeys): `py -3.12 -m pip install -r requirements.txt`, then `py -3.12 run.py`
 - Tests: `py -3.12 -m pytest tests -q`
